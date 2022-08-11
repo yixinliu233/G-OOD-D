@@ -8,4 +8,6 @@ The statistic of each dataset pair in our benchmark is listed as follows.
   </tr>
   <tr><td>No.</td><td>Name</td><td># Graph<br>(Train/Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td><td>Name</td><td># Graph<br>(Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td>
   </tr>
+  <tr><td>1</td><td>xxx</td><td>000/000</td><td>0.00</td><td>0.00</td><td>xxx</td><td>000</td><td>0.00</td><td>0.00</td>
+  </tr>
 </table>
