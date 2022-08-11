@@ -9,8 +9,7 @@ The statistic of each dataset pair in our benchmark is listed as follows.
     <td colspan="4">OOD dataset</td>
   </tr>
   <tr>
-    <td>No.</td>
-    <td>Name</td>
+    <td>No.</td><td>Name</td>
     <td># Graph<br>(Train/Test)</td>
     <td># Node<br>(avg.)</td>
     <td># Edge<br>(avg.)</td>
