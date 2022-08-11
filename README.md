@@ -9,8 +9,12 @@ The statistic of each dataset pair in our benchmark is listed as follows.
   </tr>
   <tr>
     <td>Name</td>
-    <td>\# Graph</td>
-    <td>\# Node</td>
-    <td>\# Edge</td>
+    <td># Graph</td>
+    <td># Node</td>
+    <td># Edge</td>
+    <td>Name</td>
+    <td># Graph</td>
+    <td># Node</td>
+    <td># Edge</td>
   </tr>
 </table>
