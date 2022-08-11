@@ -23,19 +23,19 @@ The statistic of each dataset pair in our benchmark is listed as follows.
   <tr><td>5</td><td>IMDB-B</td><td>000/000</td><td>19.77</td><td>96.53</td>
                 <td>IMDB-M</td><td>000</td><td>13.00</td><td>65.94</td>
   </tr>
-  <tr><td>6</td><td>Tox21</td><td>000/000</td><td>0.00</td><td>0.00</td>
-                <td>SIDER</td><td>000</td><td>0.00</td><td>0.00</td>
+  <tr><td>6</td><td>Tox21</td><td>000/000</td><td>18.51</td><td>25.94</td>
+                <td>SIDER</td><td>000</td><td>33.64</td><td>35.36</td>
   </tr>
   <tr><td>7</td><td>FreeSolv</td><td>000/000</td><td>0.00</td><td>0.00</td>
-                <td>ToxCast</td><td>000</td><td>0.00</td><td>0.00</td>
+                <td>ToxCast</td><td>000</td><td>18.78</td><td>19.26</td>
   </tr>
-  <tr><td>8</td><td>BBBP</td><td>000/000</td><td>0.00</td><td>0.00</td>
-                <td>BACE</td><td>000</td><td>0.00</td><td>0.00</td>
+  <tr><td>8</td><td>BBBP</td><td>000/000</td><td>24.06</td><td>25.95</td>
+                <td>BACE</td><td>000</td><td>34.12</td><td>36.89</td>
   </tr>
-  <tr><td>9</td><td>ClinTox</td><td>000/000</td><td>0.00</td><td>0.00</td>
+  <tr><td>9</td><td>ClinTox</td><td>000/000</td><td>26.13</td><td>27.86</td>
                 <td>LIPO</td><td>000</td><td>0.00</td><td>0.00</td>
   </tr>
   <tr><td>10</td><td>Esol</td><td>000/000</td><td>0.00</td><td>0.00</td>
-                <td>MUV</td><td>000</td><td>0.00</td><td>0.00</td>
+                <td>MUV</td><td>000</td><td>24.23</td><td>26.28</td>
   </tr>
 </table>
