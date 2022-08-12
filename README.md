@@ -1,6 +1,6 @@
-### Statistic of Graph-level OOD Detection benchmark
+### Statistic of Graph-level OOD Detection Benchmark
 
-The statistic of each dataset pair in our benchmark is listed as follows.
+The statistic of each dataset pair in our benchmark is provided as follows.
 
 <table>
   <tr>
@@ -39,3 +39,7 @@ The statistic of each dataset pair in our benchmark is listed as follows.
                 <td>MUV</td><td>113</td><td>24.2</td><td>26.3</td>
   </tr>
 </table>
+
+### Statistic of Graph-level Anomaly Detection Datasets
+
+The statistic of each dataset in the anomaly detection experiments is provided as follows.
