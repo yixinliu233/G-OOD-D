@@ -6,7 +6,8 @@ The statistic of each dataset pair in our benchmark is provided as follows.
   <tr>
   <td> </td><td colspan="4">ID dataset</td><td colspan="4">OOD dataset</td>
   </tr>
-  <tr><td>No.</td><td>Name</td><td># Graph<br>(Train/Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td><td>Name</td><td># Graph<br>(Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td>
+  <tr><td>No.</td><td>Name</td><td># Graph<br>(Train/Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td>
+                  <td>Name</td><td># Graph<br>(Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td>
   </tr>
   <tr><td>1</td><td>BZR</td><td>364/41</td><td>35.8</td><td>38.4</td>
                 <td>COX2</td><td>41</td><td>41.2</td><td>43.5</td>
@@ -43,3 +44,8 @@ The statistic of each dataset pair in our benchmark is provided as follows.
 ### Statistic of Graph-level Anomaly Detection Datasets
 
 The statistic of each dataset in the anomaly detection experiments is provided as follows.
+
+<table>
+  <tr><td>Dataset</td><td># Graph<br>(Train/Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td>
+  </tr>
+</table>
