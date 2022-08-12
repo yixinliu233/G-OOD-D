@@ -46,6 +46,20 @@ The statistic of each dataset pair in our benchmark is provided as follows.
 The statistic of each dataset in the anomaly detection experiments is provided as follows.
 
 <table>
-  <tr><td>Dataset</td><td># Graph<br>(Train/Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td>
-  </tr>
+  <tr><td>Dataset</td><td># Graph<br>(Train/Test)</td><td># Node<br>(avg.)</td><td># Edge<br>(avg.)</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
+  <tr><td>xxx</td><td>111/222</td><td>11.1</td><td>22.2</td></tr>
 </table>
