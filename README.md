@@ -1,4 +1,16 @@
-### Statistic of Graph-level OOD Detection Benchmark
+# GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection
+
+This is the source code of paper "GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection".
+
+
+## Requirements
+This code requires the following:
+* Python==3.9
+* Pytorch==1.11.0
+* PYG==2.0.4
+* Numpy==
+
+## Statistic of Graph-level OOD Detection Benchmark
 
 The statistic of each dataset pair in our benchmark is provided as follows.
 
@@ -41,7 +53,7 @@ The statistic of each dataset pair in our benchmark is provided as follows.
   </tr>
 </table>
 
-### Statistic of Graph-level Anomaly Detection Datasets
+## Statistic of Graph-level Anomaly Detection Datasets
 
 The statistic of each dataset in the anomaly detection experiments is provided as follows.
 
