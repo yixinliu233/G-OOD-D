@@ -2,13 +2,29 @@
 
 This is the source code of paper "GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection".
 
-
 ## Requirements
 This code requires the following:
 * Python==3.9
 * Pytorch==1.11.0
-* PYG==2.0.4
-* Numpy==
+* Pytorch Geometric==2.0.4
+* Numpy==1.21.2
+* Scikit-learn==1.0.2
+* OGB==1.3.3
+* NetworkX==2.7.1
+* FAISS-GPU==1.7.2
+
+## Usage
+Just run the script corresponding to the experiment and dataset you want. For instance:
+
+* Run out-of-distribution detection on BZR (ID) and COX2 (OOD) datasets:
+```
+bash script/oodd_BZR+COX2.sh
+```
+
+* Run anomaly detection on PROTEINS_full datasets:
+```
+bash script/ad_PROTEINS_full.sh
+```
 
 ## Statistic of Graph-level OOD Detection Benchmark
 
