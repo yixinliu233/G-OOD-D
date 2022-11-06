@@ -91,3 +91,15 @@ The statistic of each dataset in the anomaly detection experiments is provided a
   <tr><td>p53</td><td>8088/269</td><td>17.9</td><td>18.3</td></tr>
   <tr><td>PPAR-gamma</td><td>219/267</td><td>17.4</td><td>17.7</td></tr>
 </table>
+
+
+## Implementation Details
+
+### Hyper-parameters
+
+For the sake of efficiency, we set the structural encoding dimensions $d_s^{(rw)}$ and $d_s^{(dg)}$ to $16$. The encoders are 5-layer GINs with $16$ hidden dimensions. The number of dimensions of projected embeddings is the same as which of node embeddings. The batch size is selected from $16$ to $128$ according to the graph size of datasets. The number of clusters $K$ and self-adaptiveness parameter $\alpha$ are selected through grid search, with the scopes of $\{2, 3, 5, 10, 15, 20, 30\}$ and $\{0, 0.2, 0.4, 0.6, 0.8, 1.0\}$, respectively. The model is trained by the Adam optimizer with a learning rate of $0.0001$ until converging. 
+
+### Computing Infrastructures
+
+We conduct the experiments on a Linux server with an Intel Xeon Gold 6226R CPU and two Tesla V100S GPUs. We implement \ourmethod with PyTorch 1.11.0 and Pytorch Geometric 2.0.4. 
+
