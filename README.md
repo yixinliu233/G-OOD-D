@@ -101,5 +101,5 @@ For the sake of efficiency, we set the structural encoding dimensions $d_s^{(rw)
 
 ### Computing Infrastructures
 
-We conduct the experiments on a Linux server with an Intel Xeon Gold 6226R CPU and two Tesla V100S GPUs. We implement \ourmethod with PyTorch 1.11.0 and Pytorch Geometric 2.0.4. 
+We conduct the experiments on a Linux server with an Intel Xeon Gold 6226R CPU and two Tesla V100S GPUs. We implement our method with PyTorch 1.11.0 and Pytorch Geometric 2.0.4. 
 
