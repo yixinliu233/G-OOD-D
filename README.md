@@ -1,6 +1,6 @@
 # GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection
 
-This is the source code of paper "GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection".
+This is the source code of WSDM'23 paper "GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection".
 
 ## Requirements
 This code requires the following:
