@@ -103,3 +103,14 @@ For the sake of efficiency, we set the structural encoding dimensions $d_s^{(rw)
 
 We conduct the experiments on a Linux server with an Intel Xeon Gold 6226R CPU and two Tesla V100S GPUs. We implement our method with PyTorch 1.11.0 and Pytorch Geometric 2.0.4. 
 
+## Cite
+
+If you compare with, build on, or use aspects of this work, please cite the following:
+```
+@inproceedings{liu2023goodd,
+  title={GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection},
+  author={Liu, Yixin and Ding, Kaize and Liu, Huan and Pan, Shirui},
+  booktitle={Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
+  year={2023}
+}
+```
